@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/HomeButton"
+        android:enabled="true"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/SearchButton"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/searcher"/>
+    <item
+        android:id="@+id/AddRecipeButton"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/addRecipe"/>
+    <item
+        android:id="@+id/ProfileButton"
+        android:enabled="true"
+        android:icon="@drawable/fui_ic_anonymous_white_24dp"
+        android:title="@string/profile"/>
+</menu>

@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">CookUp</string>
+    <string name="searcher">Buscar</string>
+    <string name="preparesearcher">Preparar Busqueda</string>
+    <string name="search_bar">Escriu per buscar</string>
+    <string name="nameRecipe">Nom de la Recepta</string>
+    <string name="dishtype">Tipus de Menjada (Dinar)</string>
+    <string name="foodtype">Tipus de Recepta (Carn)</string>
+    <string name="description">Descripcio Recepta</string>
+    <string name="servings">Nombre de persones</string>
+    <string name="addPreparation">Afegir Preparacio</string>
+    <string name="createRecipe">Crear Recepta</string>
+    <string name="addIngredient">Afegir Ingredient</string>
+    <string name="createIngredient">Crear Ingredient</string>
+    <string name="ingredientname">Nom del Ingredient</string>
+    <string name="ingredientamount">Quantitat</string>
+    <string name="ingredienttype">Tipus de quantitat</string>
+    <string name="ingredientpreparation">Escriu el procés de preparació de la recepta:</string>
+    <string name="createPreparation">Crear Preparació</string>
+    <string name="name">Nom</string>
+    <string name="namedefault">None</string>
+    <string name="editProfileButton">Editar</string>
+    <string name="membership">Membership</string>
+    <string name="address">Address</string>
+    <string name="membershipInput">PREMIUM</string>
+    <string name="email">E-mail</string>
+    <string name="emaildefault">abcdefg@gmail.com</string>
+    <string name="addressInput">Barcelona, Plaça Catalunya 29</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="config">Configuració</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nickname">Nom:</string>
+    <string name="saveProfile">Guardar</string>
+    <string name="cancelSaveProfile">Cancel·lar</string>
+    <string name="maps">mapsEnable</string>
+    <string name="location">Localització</string>
+    <string name="locationdefault">Apagada</string>
+    <string name="locationOn">Apagada</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="backButton">Back</string>
+
+    <string name="token">157832773547-ce9s2f9mfk5opcprvvj9rubh00qjqbbt.apps.googleusercontent.com</string>
+    <string name="profile">Perfil</string>
+    <string name="addRecipe">Nova Recepta</string>
+    <string name="home">Home</string>
+
+    <string name="nameview">Nom</string>
+    <string name="servingview">Racions</string>
+    <string name="dishview">Plat</string>
+    <string name="foodview">Menjada</string>
+    <string name="descriptionview">Descripció</string>
+    <string name="ingredientsview">Ingredients</string>
+    <string name="preparationsview">Preparació</string>
+
+    <string name="mapsCurrentLocation">Going to current location</string>
+    <string name="addedFirebase">Recipe added to FireStore</string>
+    <string name="loginfail">Failed to Login</string>
+
+
+    <string name="lost_connection">Connexió Perduda.</string>
+    <string name="wifi_connected">Wi-Fi reconnected.</string>
+    <string name="connection_error">Unable to load content. Check your network connection.</string>
+    <string name="xml_error">Error parsing XML.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="noInternet">Ho sentim hi ha hagut un problema en la connexió a internet</string>
+    <string name="noWifiErrorMessage">Tens activat la opcio de solament Wi-fi pero no es detecta cap connexió WI-Fi operativa</string>
+    <string name="noWifinoInternet">No s\'ha detectat cap tipus de connexio en el teu dispositiu. Activa-la per poder utilitzar-la</string>
+    <string name="refresh">Refrescar</string>
+    <string name="default_notification_channel_id">CookUp_channel</string>
+    <string name="fcm_message">Nova Recepta</string>
+    <string name="coordinates">Coordenades</string>
+    <string name="coordinatesInput">-</string>
+    <string name="nameRecipeLeft">S\'ha d\'afegir nom de Recepta</string>
+    <string name="numberRecipeLeft">Falta afegir el nombre de persones per la recepta</string>
+    <string name="preparacióRecepta">Escriu la preparació…</string>
+    <string name="connection_enabled">Connexio activa</string>
+</resources>

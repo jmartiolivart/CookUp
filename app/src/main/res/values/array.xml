@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_array">
+        <item>gr</item>
+        <item>cuchara_sopera</item>
+        <item>ml</item>
+        <item>cucharilla</item>
+    </string-array>
+</resources>

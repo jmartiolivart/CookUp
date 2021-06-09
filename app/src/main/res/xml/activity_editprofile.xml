@@ -1,0 +1,45 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/namedefault"
+        android:key="@string/name"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/name"
+        />
+
+    <EditTextPreference
+        android:defaultValue="false"
+        android:key="@string/email"
+        android:maxLength="30"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/email" />
+
+    <EditTextPreference
+        android:defaultValue="false"
+        android:key="@string/latitud"
+        android:maxLength="30"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/latitud" />
+
+    <EditTextPreference
+        android:defaultValue="false"
+        android:key="@string/longitud"
+        android:maxLength="30"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/longitud" />
+
+    <ListPreference
+        android:title="Connexió"
+        android:summary="Tipus de connexió que vol usar"
+        android:key="listPref"
+        android:defaultValue="Wi-Fi"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+        />
+
+
+</PreferenceScreen>
